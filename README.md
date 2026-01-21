@@ -110,10 +110,10 @@ This ensures smooth program execution and meaningful error messages.
 
 ## 👩‍💻 Author
 
-**Pradnya Pangavhane**  
-**Bhagyashree Mohalkar**
-**Shraddha Chavan**
-**Chanchal Chavan**
+- **Pradnya Pangavhane**  
+- **Bhagyashree Mohalkar**
+- **Shraddha Chavan**
+- **Chanchal Chavan**
 GitHub: https://github.com/techbypradnya  
 
 ---
@@ -121,4 +121,5 @@ GitHub: https://github.com/techbypradnya
 ## 📌 One-Line Summary (For Viva)
 
 > A console-based Java application that demonstrates CRUD operations using collections, OOP principles, exception handling, and switch-case logic.
+
 
